@@ -1,0 +1,14 @@
+header {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
